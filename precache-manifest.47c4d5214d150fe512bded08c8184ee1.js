@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "762d19e5782b3cca1104",
+    "revision": "d49b08f5e99a0f1e28bd",
     "url": "/cineflix_by_yash/static/css/main.fc3c46f3.chunk.css"
   },
   {
-    "revision": "762d19e5782b3cca1104",
-    "url": "/cineflix_by_yash/static/js/main.762d19e5.chunk.js"
+    "revision": "d49b08f5e99a0f1e28bd",
+    "url": "/cineflix_by_yash/static/js/main.d49b08f5.chunk.js"
   },
   {
     "revision": "cb254b9f162f175d5000",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/cineflix_by_yash/static/media/4.29112083.jpg"
   },
   {
-    "revision": "9e126a75037383f89abdff74334a2fef",
+    "revision": "edbf3d4371357355f5e51fa145d8f6d0",
     "url": "/cineflix_by_yash/index.html"
   }
 ];
