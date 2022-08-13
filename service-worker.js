@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cineflix_by_yash/precache-manifest.4c58575795261200dfe9c4a468e245d0.js"
+  "/cineflix_by_yash/precache-manifest.055f0d1d9afc8f2212a41d558bb06e7d.js"
 );
 
 workbox.clientsClaim();
